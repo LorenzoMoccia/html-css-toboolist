@@ -29,7 +29,6 @@ img{
     vertical-align: middle;
 }
 
-
 /*-----------
     MAIN
 -------------*/
@@ -70,6 +69,7 @@ h3{
     margin-bottom: 20px;
     margin-top: 5px;
 }
+
 /*-----------
     BUTTON PROPERTY
 -------------*/
@@ -92,7 +92,6 @@ button{
     background-color: transparent;
     border: 1px solid grey;
 }
-
 
 /*----------
     DIV CIRCLE
@@ -119,7 +118,6 @@ button{
     border-color: red;
     line-height: 19px;
 }
-
 
 /*----------
     ETICHETTA
