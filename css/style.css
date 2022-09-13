@@ -56,18 +56,21 @@ img{
 
 }
 
-
+h2{
+    font-style: bold;
+}
 
 h3{
     display: inline-block;
     vertical-align: middle;
-    font-style: normal;
+    font-style: regular;
     margin-left: 10px;
     
 }
 
 .task{
     margin-bottom: 20px;
+    margin-top: 5px;
 }
 /*-----------
     BUTTON PROPERTY
