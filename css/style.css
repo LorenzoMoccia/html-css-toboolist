@@ -50,7 +50,7 @@ img{
     padding: 30px;
 } 
 
-.task{
+.task-container{
     color: rgb(68,72,81);
     padding: 30px;
     
@@ -59,6 +59,7 @@ img{
 
 h3{
     display: inline-block;
+    vertical-align: middle;
 }
 /*-----------
     BUTTON PROPERTY
@@ -127,4 +128,24 @@ button{
 
 #etichetta-blu{
     background-color: #45ABEA;
+}
+
+#etichetta-viola{
+    background-color: #9C72E4;
+}
+
+#etichetta-verde{
+    background-color: #64C0A9
+}
+
+#etichetta-arancione{
+    background-color: #F29E33
+}
+
+#etichetta-lime{
+    background-color: #B0C926
+}
+
+#etichetta-fuxia{
+    background-color: #D863A1;
 }
