@@ -5,11 +5,11 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 body{
     background: #F6F8F9;
-    font-family: 'Roboto', sans-serif;
 }
 
 /*-----------
@@ -31,3 +31,100 @@ img{
 }
 
 
+/*-----------
+    MAIN
+-------------*/
+
+
+.main-container{
+    margin: auto;
+    background-color: white;
+    width: 60%;
+    height: 750px;
+    border-radius: 10px;
+    
+}
+
+.button-container{
+    border-bottom: 3px solid #F6F8F9;
+    padding: 30px;
+} 
+
+.task{
+    color: rgb(68,72,81);
+    padding: 30px;
+    
+
+}
+
+h3{
+    display: inline-block;
+}
+/*-----------
+    BUTTON PROPERTY
+-------------*/
+
+button{
+    width: 100px;
+    height: 40px;
+    border: 0px;
+    color: white;
+    border-radius: 5px;
+    margin: 3px;
+}
+
+#add-task-button{
+    background-color: #45ABEA;
+}
+
+#add-section-button{
+    color: grey;
+    background-color: transparent;
+    border: 1px solid grey;
+}
+
+
+/*----------
+    DIV CIRCLE
+--------------*/
+
+.circle{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.circle-check{
+    color: green;
+    border-color: green;
+}
+
+.circle-cross{
+    color: red;
+    border-color: red;
+}
+
+
+/*----------
+    ETICHETTA
+--------------*/
+
+.etichetta{
+    width: 50px;
+    height: 20px;
+    display: inline-block;
+    color: white;
+    vertical-align: middle;
+    border-radius: 5px;
+    font-size: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+#etichetta-blu{
+    background-color: #45ABEA;
+}
