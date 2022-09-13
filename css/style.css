@@ -53,14 +53,21 @@ img{
 .task-container{
     color: rgb(68,72,81);
     padding: 30px;
-    
 
 }
+
+
 
 h3{
     display: inline-block;
     vertical-align: middle;
     font-style: normal;
+    margin-left: 10px;
+    
+}
+
+.task{
+    margin-bottom: 20px;
 }
 /*-----------
     BUTTON PROPERTY
@@ -123,7 +130,7 @@ button{
     vertical-align: middle;
     border-radius: 5px;
     font-size: 10px;
-    margin: auto;
+    margin-left: 5px;
     text-align: center;
 }
 
