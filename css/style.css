@@ -81,6 +81,7 @@ button{
     color: white;
     border-radius: 5px;
     margin: 3px;
+    cursor: pointer;
 }
 
 #add-task-button{
